@@ -26,19 +26,6 @@ This project is a **DOM-based project** created by following a guided tutorial b
 
 ---
 
-## 📂 Project Structure
-
-simple-calculator/
-│
-├── index.html # Main HTML file
-├── style.css # Styling
-└── script.js # JavaScript (DOM logic)
-
-yaml
-Copy code
-
----
-
 ## 🚀 How to Run the Project
 
 1. Clone or download this repository.
